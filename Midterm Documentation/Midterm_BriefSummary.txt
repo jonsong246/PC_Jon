@@ -1,0 +1,3 @@
+My Midterm Project explores the use of an FSR using a deodorant stick as the catalyst. The dial is the only function used for this piece, and it creates varying pressure based on the 
+dial's position. The varying pressure value has a direct relationship with varying color seen on screen. New shapes and backgrounds appear once the previous shape has been matched for 
+2 seconds. The software used for this piece is Arduino to Processing. 
